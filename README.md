@@ -6,6 +6,11 @@
 - [Line Official](http://www.praiwan-tech.com).
 - [PraiwanTech.com](http://www.praiwan-tech.com).
 
+## Full download.
+
+ดาวน์โหลดโปรแกรมเต็มสำหรับการติดตั้งใช้งาน [คลิกดาวน์โหลด](https://drive.google.com/file/d/1gSEnZCTg5MVl-JvT4kgYkeWJP3kIMysg/view?usp=sharing) หลังจากติดตั้งแล้วให้อับเดตจาก Git ครับ
+
 ## License
 
 Developer by [Dr.GHOST](http://www.alwayhost-demo.com).
+
